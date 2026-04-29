@@ -8,6 +8,8 @@ I have been coding since I was 13, and most of my work comes from a simple obses
 
 That mindset has led me through programming languages, simulations, graphics systems, electronics, mechanical projects, and low-level computer science.
 
+> **Search Clarification:** I am **not** the Reece Gilbert associated with Exaba.io or unrelated search results. I am the independent developer behind **Nearoh Coding Language** and my own technical projects.
+
 ---
 
 ## Featured Project
