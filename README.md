@@ -1,7 +1,6 @@
-```md
 # Reece Gilbert
 
-Builder. Programmer. Systems thinker.
+**Builder. Programmer. Systems thinker.**
 
 I create difficult things from scratch — software, systems, machines, and ideas.
 
@@ -9,72 +8,50 @@ Currently building **Nearoh**, a Python-inspired programming language written in
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Nearoh Coding Language
 
-A custom programming language focused on clean syntax, control, and long-term growth.
+Nearoh is a Python-inspired programming language built from scratch in C.
 
-Current features include:
+It currently supports:
 
-- Lexer
-- Parser
+- Lexing and parsing
 - AST execution
 - Variables
 - Loops
 - Functions
-- Classes
-- Objects
+- Classes and objects
 - Lists
-- Runtime systems
+- Runtime behavior
 
-🔗 Repository: https://github.com/ReeceGilbert/Nearoh-Coding-Language
+**Repository:** https://github.com/ReeceGilbert/Nearoh-Coding-Language  
+**Website:** https://nearoh-coding-language.base44.app
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I enjoy understanding how things work at every level.
+I like understanding systems from the ground up.
 
-My interests include:
+My work spans:
 
 - Programming languages
 - Graphics engines
 - Simulation systems
 - Electronics
 - Physics concepts
-- Problem solving
-- Building from scratch
+- Logic and computer systems
+- Mechanical fabrication
 
 I value originality, honesty, discipline, and long-term growth.
 
 ---
 
-## 🔥 Other Work
+## Current Mission
 
-Projects and experiments I’ve built include:
-
-- Custom engines and simulations
-- Neural network experiments
-- Physics visualizations
-- Logic/computer systems
-- Electronics builds
-- Mechanical fabrication projects
+Build real things, sharpen my skills, and create work that speaks for itself.
 
 ---
 
-## 📈 Current Mission
-
-Build tools, create meaningful systems, and become undeniable through real skill.
-
----
-
-## 🌐 Links
-
-- Nearoh Website: https://nearoh-coding-language.base44.app
-- Nearoh GitHub: https://github.com/ReeceGilbert/Nearoh-Coding-Language
-
----
-
-> Building quietly. Improving daily.
-```
+*Building quietly. Improving daily.*
